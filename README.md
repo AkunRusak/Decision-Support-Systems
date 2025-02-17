@@ -1,13 +1,41 @@
 # Decision-Support-Systems
 
-## 1. Analytic Hierarchy Process
-
-Analytic Hierarchy Process (AHP) adalah metode pengambilan keputusan yang digunakan untuk memilih alternatif terbaik berdasarkan beberapa kriteria. AHP sering digunakan dalam berbagai bidang, seperti bisnis, manajemen, teknik, dan lain-lain. Berikut adalah beberapa **contoh kasus yang dianalisis menggunakan AHP** :
+## 1. Analytic Hierarchy Process (AHP)
 
 ---
 
-## 2. Profile Matching
+## 2. Simple Additive Weighting (SAW)
 
-Profile Matching adalah metode yang sering digunakan dalam berbagai konteks analisis keputusan. Berikut adalah beberapa contoh kasus yang sering dianalisis menggunakan metode Profile Matching:
+---
+
+## 3. Profile Matching
+
+---
+
+## 4. Weighted Product (WP)
+
+---
+
+## 5. Technique for Others Preference by Similarity to Ideal Solution (TOPSIS)
+
+---
+
+## 6. Multi-Objective Optimization by Ratio Analysis (MOORA)
+
+---
+
+## 7. Elimination and Choice Expressing Reality (ELECTRE)
+
+---
+
+## 8. Organization, Rangement Et Synthese De Donnes Relationnelles (ORESTE)
+
+---
+
+## 9. Specific, Measurable, Achievable, Relevant and Time Bound (SMART)
+
+---
+
+## 10. VIšekriterijumsko KOmpromisno Rangiranje (VIKOR)
 
 ---
